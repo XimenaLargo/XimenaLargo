@@ -1,6 +1,6 @@
 <h1 align = "center" > <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40">Hi, there. I'm Ximena</h1>
 
-<h3 align="center">A passionate frontend developer jr from Colombia</h3>
+<h3 align="center">A passionate software developer jr from Colombia</h3>
 
 <p align="center">
   <a href="https://github.com/XimenaLargo96">
@@ -8,7 +8,7 @@
   </a>
   </p>
 
-- 🌱 I’m currently learning **software development and frontend development.**
+- 🌱 I’m currently learning **software development.**
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: **ximena0301@gmail.com**
 
