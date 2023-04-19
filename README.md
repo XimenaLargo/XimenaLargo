@@ -3,10 +3,8 @@
 <h3 align="center">A passionate software developer jr from Colombia</h3>
 
 <p align="center">
-  <a href="https://github.com/XimenaLargo96">
-    <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
-  </a>
-  </p>
+    <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
+ </p>
 
 - 🌱 I’m currently learning **software development.**
 - 💬 Ask me about anything, I am happy to help
