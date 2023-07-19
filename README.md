@@ -1,6 +1,6 @@
 <h1 align = "center" > <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40">Hi, there. I'm Ximena</h1>
 
-<h3 align="center">A passionate software developer jr from Colombia</h3>
+<h3 align="center">A passionate software developer student from Colombia</h3>
 
 <p align="center">
     <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
