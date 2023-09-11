@@ -30,6 +30,6 @@
 </p>
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ximenalargo96&show_icons=true&locale=en&layout=compact" alt="ximenalargo96" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XimenaLargo96&layout=compact" alt="ximenalargo96" />
 </p>
 </div>
