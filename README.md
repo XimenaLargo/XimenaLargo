@@ -1,35 +1,35 @@
-<h1 align = "center" > <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30">Hi, there. I'm Ximena</h1>
-
-<h3 align="center">A passionate software developer from Colombia</h3>
-
-<p align="center">
-    <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
- </p>
-
-- 🌱 I’m currently learning **software development.**
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: **ximena0301@gmail.com**
-
-
+<h1 align = "center"  > <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30">Hi, there. I'm Ximena</h1>
+<br>
+<div align="center">
+  <img align="right" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="200" height="150">
+  <div align="left">
+      <p>
+          A passionate software developer with experience in both frontend and backend. On the lookout for exciting opportunities, I bring a knack for quick learning, a love for coding, and a fascination for            science. Ready to collaborate and bring some tech magic to the table. Let's connect and create something awesome!
+      </p>
+    <ul>
+      <li>🌱 I’m currently learning Backend development.</li>
+      <li>💬 Ask me about anything, I am happy to help</li>
+      <li>📫 How to reach me: ximena0301@gmail.com</li>
+    </ul>
+  </div>
+</div>
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/ximena-largo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
+    <a href="https://ximena-largo-portafolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/ximena-largo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.instagram.com/ximena_largo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>  
+    <a href="https://www.hackerrank.com/profile/ximena0301"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 </p>
-
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
 <p> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,sass,java,spring,go,mysql,mongodb,maven,postman,linux,powershell,git,github,gitlab,figma,docker,kubernetes,aws,terraform,selenium,idea,vscode" />
 </p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XimenaLargo96&layout=compact" alt="ximenalargo96" />
+<br>
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XimenaLargo96&layout=donut&langs_count=7&theme=dracula" alt="ximenalargo96" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ximenalargo96&show_icons=true&theme=dracula" />
 </p>
 </div>
