@@ -29,7 +29,6 @@
 </p>
 <br>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XimenaLargo96&layout=donut&langs_count=7&theme=dracula" alt="ximenalargo96" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ximenalargo96&show_icons=true&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XimenaLargo96&layout=donut&langs_count=7&theme=dracula" alt="ximenalargo96" /> <img align="right" src="https://github-readme-stats.vercel.app/api?username=ximenalargo96&show_icons=true&theme=dracula" />
 </p>
 </div>
