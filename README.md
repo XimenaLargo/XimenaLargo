@@ -25,9 +25,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
 <p> 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,sass,java,spring,go,mysql,mongodb,maven,postman,linux,powershell,git,github,gitlab,figma,docker,kubernetes,aws,terraform,selenium,idea,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,sass,figma,java,spring,go,mysql,mongodb,maven,postman,linux,powershell,git,github,gitlab,docker,kubernetes,aws,terraform,selenium,idea,vscode" />
 </p>
+</div>
 <br>
+<div style="display: flex; align-items: center; justify-content: center;">
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XimenaLargo96&layout=donut&langs_count=7&theme=dracula" alt="ximenalargo96" /> <img align="right" src="https://github-readme-stats.vercel.app/api?username=ximenalargo96&show_icons=true&theme=dracula" />
 </p>
