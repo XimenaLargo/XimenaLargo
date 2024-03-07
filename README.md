@@ -29,8 +29,15 @@
 </p>
 </div>
 <br>
-<div style="display: flex; align-items: center; justify-content: center;">
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XimenaLargo96&layout=donut&langs_count=7&theme=dracula" alt="ximenalargo96" /> <img align="right" src="https://github-readme-stats.vercel.app/api?username=ximenalargo96&show_icons=true&theme=dracula" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XimenaLargo96&layout=donut&langs_count=7&theme=dracula" alt="ximenalargo96" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=ximenalargo96&show_icons=true&theme=dracula" />
+      </td>
+    </tr>
+  </table>
 </div>
