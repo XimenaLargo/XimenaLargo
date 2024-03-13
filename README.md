@@ -2,9 +2,10 @@
 <br>
 <div align="center">
   <img align="right" src="https://media.giphy.com/media/nFLW7PNGgN3lI68rdv/giphy.gif" width="230" height="200">
+  <br>
   <div align="left">
-      <p>
-          A passionate software developer with experience in both frontend and backend. On the lookout for exciting opportunities, I bring a knack for quick learning, a love for coding, and a fascination for            science. Ready to collaborate and bring some tech magic to the table. Let's connect and create something awesome!
+      <p align="left">
+          A passionate software developer with experience in both frontend and backend. On the lookout for exciting opportunities, I bring a knack for quick learning, a love for coding,            and a fascination for science. Ready to collaborate and bring some tech magic to the table. Let's connect and create something awesome!
       </p>
     <ul>
       <li>🌱 I’m currently learning Backend development.</li>
@@ -33,7 +34,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XimenaLargo96&layout=donut&langs_count=7&theme=dracula" alt="ximenalargo96" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XimenaLargo96&layout=donut&langs_count=8&theme=dracula" alt="ximenalargo96" />
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=ximenalargo96&show_icons=true&theme=dracula" />
