@@ -34,10 +34,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XimenaLargo96&layout=donut&langs_count=8&theme=dracula" alt="ximenalargo96" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XimenaLargo&layout=donut&langs_count=8&theme=dracula" alt="ximenalargo96" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ximenalargo96&show_icons=true&theme=dracula" />
+        <img src="https://github-readme-stats.vercel.app/api?username=ximenalargo&show_icons=true&theme=dracula" />
       </td>
     </tr>
   </table>
