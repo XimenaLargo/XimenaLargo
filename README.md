@@ -5,7 +5,7 @@
   <br>
   <div align="left">
       <p align="left">
-          A passionate software developer with experience in both frontend and backend. On the lookout for exciting opportunities, I bring a knack for quick learning, a love for coding,            and a fascination for science. Ready to collaborate and bring some tech magic to the table. Let's connect and create something awesome!
+          Software developer with a solid background in systems and specialization in backend development with Java. I have experience in creating and maintaining web applications using            Java and Spring, which has allowed me to master the implementation of robust and scalable solutions. I am passionate about programming and enjoy sharing my knowledge with others. I am committed to continuous learning of new technologies and constant professional growth.
       </p>
     <ul>
       <li>🌱 I’m currently learning Backend development.</li>
