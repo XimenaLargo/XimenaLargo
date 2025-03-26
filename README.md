@@ -26,7 +26,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
 <p> 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,sass,figma,java,spring,go,mysql,mongodb,maven,postman,linux,powershell,git,github,gitlab,docker,kubernetes,aws,terraform,selenium,idea,vscode" />
+<img src="https://skillicons.dev/icons?i=java,spring,go,kotlin,androidstudio,html,css,js,react,typescript,bootstrap,sass,figma,mysql,postgres,mongodb,maven,postman,linux,powershell,git,github,gitlab,docker,kubernetes,aws,terraform,selenium,idea,vscode" />
 </p>
 </div>
 <br>
